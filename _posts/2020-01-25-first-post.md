@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 This is just a test post.
 
 # This is heading 1
