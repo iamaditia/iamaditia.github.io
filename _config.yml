@@ -225,6 +225,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-algolia
   - jekyll-gist
+  - jekyll-remote-theme
 
 
 # mimic GitHub Pages with --safe
