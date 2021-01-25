@@ -13,3 +13,10 @@ Can you see this?
 ```R
 install.packages("ggplot2")
 ```
+
+### Anyway
+
+Can I test this plugin?
+
+- Original date - {{ date }}
+- With timeago filter - {{ date | timeago }}
