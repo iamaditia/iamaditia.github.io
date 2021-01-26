@@ -1,2 +1,2 @@
-# adit-blog
-Jekyll 4.2.0
+# Adit's Personal Blog
+Hi. This blog is using Jekyll 4.2.0
