@@ -18,4 +18,4 @@ install.packages("ggplot2")
 
 Can I test this plugin?
 
-Now I'm trying to create a [tooltip] (a "Yes, a tooltip")
+Now I'm trying to create a [tooltip](a "Yes, a tooltip")
