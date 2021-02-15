@@ -18,6 +18,6 @@ install.packages("ggplot2")
 
 Can I test this plugin?
 
-Now I'm trying to create a tooltip.
+Now I'm trying to create a tooltip with HTML.
 
 *[HTML]: Hyper Text Markup Language
