@@ -226,6 +226,7 @@ plugins:
   - jekyll-algolia
   - jekyll-gist
   - jekyll-remote-theme
+  - jemoji
 
 
 # mimic GitHub Pages with --safe

@@ -2,6 +2,22 @@
 permalink: /about/
 ---
 
-Hi, this personal blog is still in construction.
+# About me and this site
 
-Please be patient while I'm trying to come up with awesome essays.
+Hi, my name is Aditia. Welcome to my personal blog :wave:.
+
+I'm learning to build in public. What am I building? Stay tuned and I'll post about my journey here.
+
+## My tech stack
+
+### Hardware
+
+### Web development
+
+### Gaming
+
+## About this site
+
+I built this using Jekyll and it's hosted for free on Github Pages. I'm using Minimal Mistakes for the theme, built by [Michael Rose] (https://mademistakes.com "You should visit his awesome blog").
+
+***Last updated on:*** *18 June 2021.* {: .notice--info}

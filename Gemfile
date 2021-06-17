@@ -6,6 +6,8 @@ gem 'jekyll', '~> 4.2'
 
 gem 'minimal-mistakes-jekyll'
 
+gem 'jemoji'
+
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-timeago", "~> 0.13.1"
