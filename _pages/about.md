@@ -20,8 +20,6 @@ I'm learning to build in public. What am I building? Stay tuned and I'll post ab
 
 ## About this site
 
-I built this using Jekyll and it's hosted for free on Github Pages. I'm using Minimal Mistakes for the theme, built by [Michael Rose](https://mademistakes.com).
+I built this using Jekyll and it's hosted for free on Github Pages. I'm using Minimal Mistakes for the theme, built by [Michael Rose](https://mademistakes.com "Check his awesome blog"){:target="_blank"}.
 
-[Michael Rose]: https://mademistakes.com "You should check his awesome site"
-
-***Last updated on:*** *18 June 2021.*{: .notice--info}
+> ***Last updated on:*** *18 June 2021.*{: .notice--info}
