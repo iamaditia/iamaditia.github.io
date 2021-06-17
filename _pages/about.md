@@ -16,8 +16,12 @@ I'm learning to build in public. What am I building? Stay tuned and I'll post ab
 
 ### Gaming
 
+### Follow me on the internet
+
 ## About this site
 
-I built this using Jekyll and it's hosted for free on Github Pages. I'm using Minimal Mistakes for the theme, built by [Michael Rose] (https://mademistakes.com "You should visit his awesome blog").
+I built this using Jekyll and it's hosted for free on Github Pages. I'm using Minimal Mistakes for the theme, built by [Michael Rose](https://mademistakes.com).
 
-***Last updated on:*** *18 June 2021.* {: .notice--info}
+[Michael Rose]: https://mademistakes.com "You should check his awesome site"
+
+***Last updated on:*** *18 June 2021.*{: .notice--info}
