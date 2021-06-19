@@ -8,8 +8,6 @@ tags:
   - happiness
 ---
 
-# My Startup Goal for 2021
-
 Every indie makers out there like to post their goals in public. Partly for accountability, partly for self-motivation. Fine, I'll post mine here.
 
 My startup goal for 2021 is **$5 ARR**.
