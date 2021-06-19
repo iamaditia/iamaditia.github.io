@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, my name is Aditia. Welcome to my personal blog :wave:.
 
-I'm learning to build in public. What am I building? Stay tuned and I'll post about my journey here.
+I'm building in public. What am I building? Stay tuned and I'll post about my journey here.
 
 ## My tech stack
 
@@ -20,7 +20,7 @@ I'm learning to build in public. What am I building? Stay tuned and I'll post ab
 
 ## About this site
 
-I built this using Jekyll and it's hosted for free on Github Pages. I'm using Minimal Mistakes for the theme, built by [Michael Rose](https://mademistakes.com "Check his awesome blog"){:target="_blank"}.
+I built this using Jekyll and it's hosted for free on Github Pages. I'm using Minimal Mistakes for the theme, made by [Michael Rose](https://mademistakes.com "Check his awesome blog"){:target="_blank"}.
 
 <div class="notice--info">
   <p><strong>Last updated on:</strong> 18 June 2021</p>
