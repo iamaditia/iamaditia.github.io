@@ -14,25 +14,25 @@ I'm building in public. What am I building? Stay tuned and I'll post about my jo
 
 ### Hardware
 
-1. Macbook Air 2017
+1. [Macbook Air 2017](https://amzn.to/3qgFexI){:target="_blank"}
 
-2. iPad Pro 2018
+2. [iPad Pro 2018](https://amzn.to/3zNDalt){:target="_blank"}
 
-3. Logitech wireless keyboard
+3. [Logitech wireless keyboard](https://amzn.to/3xDibzO){:target="_blank"}
 
 ### Web development
 
-1. Atom
+1. [Atom](https://atom.io){:target="_blank"}
 
-2. Ghost
+2. [Ghost](https://ghost.org){:target="_blank"}
 
-3. Wordpress
+3. [Wordpress](https://wordpress.org){:target="_blank"}
 
-4. Jekyll
+4. [Jekyll](https://jekyllrb.com){:target="_blank"}
 
-5. Github
+5. [Github](https://github.com){:target="_blank"} and [Github Pages](https://pages.github.com){:target="_blank"}
 
-6. DigitalOcean
+6. [DigitalOcean](https://m.do.co/c/8ddf004f0401){:target="_blank"}
 
 ### Productivity
 
