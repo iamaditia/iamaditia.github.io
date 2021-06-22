@@ -1,5 +1,9 @@
 ---
 permalink: /about/
+toc: true
+toc_label: "About me and this site"
+toc_icon: "list"
+toc_sticky: true
 ---
 
 # About me and this site
@@ -55,8 +59,6 @@ I'm building in public. What am I building? Stay tuned and I'll post about my jo
 ## About this site
 
 I built this using Jekyll and it's hosted for free on [Github Pages](https://pages.github.com){:target="_blank"}. I'm using Minimal Mistakes for the theme, made by [Michael Rose](https://mademistakes.com "Check his awesome blog"){:target="_blank"}.
-
-###
 
 <div class="notice--info">
   <p><strong>Last updated on:</strong> 22 June 2021</p>
