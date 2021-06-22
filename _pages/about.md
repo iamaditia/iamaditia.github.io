@@ -1,8 +1,6 @@
 ---
 permalink: /about/
 toc: true
-toc_label: "About me and this site"
-toc_icon: "list"
 toc_sticky: true
 ---
 
