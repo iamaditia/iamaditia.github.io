@@ -36,21 +36,21 @@ I'm building in public. What am I building? Stay tuned and I'll post about my jo
 
 ### Productivity
 
-1. Notion
+1. [Notion](https://www.notion.so){:target="_blank"}
 
-2. Fantastical
+2. [Fantastical](https://flexibits.com){:target="_blank"}
 
-3. Things
+3. [Things 3](https://culturedcode.com/things/){:target="_blank"}
 
 ### Writing
 
-1. Scrivener
+1. [Scrivener](https://a.paddle.com/v2/click/49535/124780?link=1570){:target="_blank"}
 
-2. iA Writer
+2. [iA Writer](https://ia.net/writer){:target="_blank"}
 
-3. Hemmingway
+3. [Hemingway](https://hemingwayapp.com){:target="_blank"}
 
-4. Grammarly
+4. [Grammarly](https://www.grammarly.com){:target="_blank"}
 
 ***
 
