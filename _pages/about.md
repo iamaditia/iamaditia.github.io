@@ -2,6 +2,7 @@
 permalink: /about/
 toc: true
 toc_sticky: true
+last_modified_at: 2021-07-26
 ---
 
 # About me and this site
@@ -40,6 +41,8 @@ I'm building in public. What am I building? Stay tuned and I'll post about my jo
 
 * [DigitalOcean](https://m.do.co/c/8ddf004f0401){:target="_blank"}
 
+* [Namecheap](https://www.dpbolvw.net/click-100434038-12892698){:target="_blank"}
+
 ### Productivity
 
 * [Notion](https://www.notion.so){:target="_blank"}
@@ -73,9 +76,5 @@ I built this using Jekyll and it's hosted for free on [Github Pages](https://pag
 Some of the links in this blog are affiliate links, which means that if you go through them to make a purchase I will earn some lunch money :pizza:. This won't cost you anything but it helps me to offset the costs of maintaining this blog.
 
 I don't and won't let the compensation I receive influence my opinions and advice in my blog.
-
-<div class="notice--info">
-  <p><strong>Last updated on:</strong> 11 July 2021</p>
-</div>
 
 *[SSD]: Solid State Drive
