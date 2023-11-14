@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aditia's Blog"
+title                    : "Adit's Blog"
 title_separator          : "-"
 subtitle                 : "Thoughts & current projects" # site tagline that appears below site title in masthead
-name                     : "Aditia"
-description              : "The personal blog of Aditia."
+name                     : "Adit"
+description              : "The personal blog of Adit."
 url                      : "https://adit.blog" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "iamaditia/iamaditia.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
