@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "iamaditia"
+  username               : "read3am"
 facebook:
   username               :
   app_id                 :
@@ -93,8 +93,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aditia"
-  avatar           : "/assets/images/Adit-bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Adit"
+  avatar           : "/assets/images/avatar-adit.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Trying to live an intentional life."
   location         : "Tangerang, ID"
   email            :
@@ -104,7 +104,7 @@ author:
       url: "mailto:adit@welearnr.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/iamaditia"
+      url: "https://twitter.com/read3am"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -117,16 +117,13 @@ author:
     - label: "Three in the Morning"
       icon: "fas fa-fw fa-link"
       url: "https://3am.link"
-    - label: "We Learn R"
-      icon: "fas fa-fw fa-link"
-      url: "https://welearnr.com"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/iamaditia"
+      url: "https://twitter.com/read3am"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:

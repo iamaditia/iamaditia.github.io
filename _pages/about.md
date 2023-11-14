@@ -7,7 +7,7 @@ last_modified_at: 2021-07-26
 
 # About me and this site
 
-Hi, my name is Aditia. Welcome to my personal blog :wave:.
+Hi, my name is Adit. Welcome to my personal blog :wave:.
 
 I'm building in public. What am I building? Stay tuned and I'll post about my journey here.
 
