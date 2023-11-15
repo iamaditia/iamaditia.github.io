@@ -103,7 +103,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:adit@welearnr.com"
     - label: "Twitter"
-      icon: "fa-brands fa-x-twitter"
+      icon: "fab fa-twitter"
       url: "https://twitter.com/read3am"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -112,17 +112,17 @@ author:
       icon: "fab fa-github"
       url: "https://github.com/iamaditia"
     - label: "Become a supporter"
-      icon: "fa-brands fa-patreon"
+      icon: "fab fa-patreon"
       url: "https://patreon.com/aditia"
     - label: "Three in the Morning"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-laptop-code"
       url: "https://3am.link"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-twitter"
       url: "https://twitter.com/read3am"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
