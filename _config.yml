@@ -109,7 +109,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fa-brands fa-github"
+      icon: "fab fa-github"
       url: "https://github.com/iamaditia"
     - label: "Become a supporter"
       icon: "fa-brands fa-patreon"
