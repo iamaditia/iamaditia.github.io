@@ -102,7 +102,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:adit@welearnr.com"
-    - label: "X"
+    - label: "Twitter"
       icon: "fa-brands fa-x-twitter"
       url: "https://twitter.com/read3am"
     - label: "Facebook"
@@ -121,7 +121,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "X"
+    - label: "Twitter"
       icon: "fa-brands fa-x-twitter"
       url: "https://twitter.com/read3am"
     - label: "Facebook"
