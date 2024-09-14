@@ -81,7 +81,7 @@ og_image                 :  /assets/images/twitter-default.png # Open Graph/Twit
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links                  : # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -96,7 +96,7 @@ author:
   name             : "Adit"
   avatar           : "/assets/images/avatar-adit.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Trying to live an intentional life."
-  location         : "Tangerang, ID"
+  location         : "Indonesia"
   email            :
   links:
     - label: "Email"
@@ -104,16 +104,16 @@ author:
       # url: "mailto:adit@welearnr.com"
     - label: "Twitter"
       icon: "fa-brands fa-x-twitter"
-      url: "https://twitter.com/read3am"
+      # url: "https://twitter.com/read3am"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fa-brands fa-github"
-      url: "https://github.com/iamaditia"
+      # url: "https://github.com/iamaditia"
     - label: "Become a supporter"
       icon: "fa-brands fa-patreon"
-      url: "https://patreon.com/aditia"
+      # url: "https://patreon.com/aditia"
     - label: "Jam Tiga Pagi"
       icon: "fa-solid fa-3"
       url: "https://3am.link"
@@ -123,13 +123,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fa-brands fa-x-twitter"
-      url: "https://twitter.com/read3am"
+      # url: "https://twitter.com/read3am"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fa-brands fa-github"
-      url: "https://github.com/iamaditia"
+      # url: "https://github.com/iamaditia"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
