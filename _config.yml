@@ -15,10 +15,10 @@ remote_theme             : "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "id-ID"
 title                    : "Adit's Blog"
 title_separator          : "-"
-subtitle                 : "Thoughts & current projects" # site tagline that appears below site title in masthead
+subtitle                 : "Catatan, pengamatan, dan pemikiran" # site tagline that appears below site title in masthead
 name                     : "Adit"
 description              : "The personal blog of Adit."
 url                      : "https://adit.blog" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -209,7 +209,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone:  Asia/Jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:  Asia/Makassar # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
