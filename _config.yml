@@ -20,7 +20,7 @@ title                    : "Adit's Blog"
 title_separator          : "-"
 subtitle                 : "Catatan, pengamatan, dan pemikiran" # site tagline that appears below site title in masthead
 name                     : "Adit"
-description              : "The personal blog of Adit."
+description              : "Catatan seorang pembelajar ✍️."
 url                      : "https://adit.blog" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "iamaditia/iamaditia.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,35 +101,35 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:adit@welearnr.com"
+      # url: "mailto:your.name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "fa-brands fa-x-twitter"
-      # url: "https://twitter.com/read3am"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fa-brands fa-github"
-      # url: "https://github.com/iamaditia"
-    - label: "Become a supporter"
-      icon: "fa-brands fa-patreon"
-      # url: "https://patreon.com/aditia"
-    - label: "Jam Tiga Pagi"
-      icon: "fa-solid fa-3"
-      url: "https://3am.link"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
-      icon: "fa-brands fa-x-twitter"
-      # url: "https://twitter.com/read3am"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
-      icon: "fa-brands fa-github"
-      # url: "https://github.com/iamaditia"
+      icon: "fab fa-fw fa-github"
+      # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -139,7 +139,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
+  since: "2021"
 
 # Reading Files
 include:
