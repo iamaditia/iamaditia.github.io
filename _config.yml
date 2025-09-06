@@ -15,7 +15,7 @@ remote_theme             : "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "id-ID"
+locale                   : "en-US"
 title                    : "Adit's Blog"
 title_separator          : "-"
 subtitle                 : "Catatan, pengamatan, dan pemikiran" # site tagline that appears below site title in masthead
